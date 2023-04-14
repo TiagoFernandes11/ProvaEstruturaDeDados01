@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class PilhaDocumentos {
     private Documento[] documentos;
     private int tamanho;
